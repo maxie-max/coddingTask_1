@@ -6,8 +6,6 @@ var processSchemeCtrl = function ($scope, datasourceService) {
     });
     $scope.buildprocessSchemeData = function (data) {
         $scope.processSchemeObj = {
-            //names: data.names,
-            //positions: data.positions,
             data: [],
             transitions: []
         };
@@ -35,8 +33,6 @@ var processSchemeCtrl = function ($scope, datasourceService) {
                     source: key,
                     target: transition[i]
                 };
-                //item[key] = transition[i];*/
-                
                 $scope.processSchemeObj.transitions.push(item);
             }
         }

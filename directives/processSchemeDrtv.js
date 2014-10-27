@@ -18,7 +18,6 @@ var processSchemeDrtv = function($timeout) {
                 jsPlumb.connect(scope.options.transitions[key], stateMachineConnector);
             }
         }, 100);
-        
 		}
 	}
 }
