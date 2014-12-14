@@ -1,13 +1,14 @@
 # Things to DO
 
-## Using the attached JSON data file, visualize the information in a useful way in a form of Workflow.
+## Visualize the information recieved from JSON data file in a form of a diagram.
 
- - For better undertanfing refer to the image - workflow.png for reference.
+ - To get better idea please refer to the image - workflow.png that represents such diagram.
+ 
+ - bonus point for using your own solution (without MV* frameworks)
 
- - We'll be interested to hear your design approach, what tools/frameworks/libraries were used, why they were used, and any problems you encountered.
+ - We'll be interested to hear your design approach, what tools/libraries were used, why they were used, and any problems you encountered.
 
 ## Submitting your application
 
  - Create a branch of your name and push to your forked repository.
  - Create a pull request to master from your repository.
-
