@@ -2,7 +2,7 @@
 
 ## Visualize the information recieved from JSON data file in a form of a diagram.
 
- - To get better idea please refer to the image - workflow.png that represents such diagram.
+ - To get better idea please refer to the image - workflow.png that represents the diagram.
  
  - Bonus point for using your own solution (without MV* frameworks)
 
